@@ -1,0 +1,17 @@
+{
+    "name": "argll/php-oara",
+    "description": "Open Affiliate Report Aggregator (OARA)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Argll\\PhpOara\\": "src/"
+        }
+    },
+    "autoload":{
+        "psr-4": {
+            "Oara\\" : "Oara/"
+        }
+    },
+    "require": {}
+}
